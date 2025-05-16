@@ -2,7 +2,7 @@
   "chats": {},
   "settings": {
     "prefix": ".",
-    "mode": "public",
+    "mode": "pm",
     "autobio": false,
     "anticall": false,
     "chatbot": false,
@@ -10,14 +10,14 @@
     "autoread": false,
     "welcome": false,
     "antiedit": "private",
-    "menustyle": "3",
-    "statusemoji": "🧡",
-    "autoreact": false,
-    "autorecord": false,
+    "menustyle": "2",
+    "statusemoji": "🫶",
+    "autoreact": true,
+    "autorecord": true,
     "antidelete": "private",
     "alwaysonline": true,
     "autoviewstatus": true,
-    "autoreactstatus": false,
+    "autoreactstatus": true,
     "autorecordtype": false
   },
   "blacklist": {
